@@ -1,71 +1,88 @@
+# 📊 Customer & Sales Analysis Dashboard
 
-# 📊 Customer & Sales Analysis Dashboard (Excel)
+![Dashboard Preview](Customer_dashboard.png)
 
-## 📌 Project Overview
-This project presents an interactive Customer & Sales Analysis Dashboard built in Microsoft Excel to analyze customer behavior, revenue distribution, and overall sales performance.
+**An interactive Excel dashboard** designed to analyze customer behavior and sales performance using real transactional data.
 
-The dashboard transforms raw transactional data into meaningful insights using data visualization and Pivot Tables, enabling better understanding of customer segments and business trends.
+---
+
+## ⭐ Project Overview
+
+This project presents a comprehensive **Customer & Sales Analysis Dashboard** built entirely in Microsoft Excel. It transforms raw sales data into clear, actionable insights through interactive visualizations, helping businesses better understand their customers and optimize sales strategies.
+
+The dashboard provides a complete 360° view of sales performance, customer segmentation, and key business metrics.
 
 ---
 
 ## 🎯 Objectives
-- Analyze total revenue and customer count  
-- Understand customer segmentation (Regular, Premium, Business)  
-- Identify revenue distribution across age groups and gender  
-- Evaluate sales performance by city and category  
-- Analyze payment method usage  
+
+- Calculate total revenue and total customer count
+- Analyze customer segmentation (Regular, Premium, Business)
+- Identify revenue distribution by age groups and gender
+- Evaluate sales performance by city and product category
+- Analyze payment method preferences and usage
 
 ---
 
-## 📊 Dashboard Features
-- KPI Metrics (Total Revenue, Total Customers, Avg Age, Avg Order Value)  
-- Revenue by Customer Segment  
-- Sales by Gender  
-- Revenue by Age Group  
-- Top Cities by Revenue  
-- Payment Method Distribution  
-- Sales Trend Over Time  
-- Top Customer & Top Category Insights  
-- Interactive Slicers (City, Category, Customer Segment)  
+## ✨ Key Features
+
+- **Interactive Slicers** for easy filtering by City, Category, Customer Segment, Payment Method, etc.
+- **Real-time KPI Cards** (Total Revenue, Total Customers, Avg. Order Value)
+- **Trend Analysis** – Monthly sales trends
+- **Customer Demographics** – Breakdown by Age Group & Gender
+- **Geographic Insights** – Performance by City
+- **Product Category Performance**
+- **Payment Method Analysis**
+- Clean, professional dashboard layout with multiple charts
 
 ---
 
-## 🛠 Tools & Skills Used
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Data Cleaning (Text to Columns, Formatting)  
-- Data Visualization  
-- Dashboard Design  
+## 🛠 Technologies Used
+
+- Microsoft Excel (PivotTables, Pivot Charts, Slicers & Dashboard Design)
+- Advanced Excel Formulas
+- Data Cleaning and Preparation
+- Conditional Formatting
 
 ---
 
-## 📷 Dashboard Preview
-Customer_dashboard.png
+## 📁 Files in Repository
+
+- `Customer_Sales_Analysis_Dashboard.xlsx` – Main Excel workbook
+- `Customer_dashboard.png` – Dashboard screenshot
+- `README.md` – Project documentation
 
 ---
+## 📌 Key Insights
 
-## 📁 Files Included
-- Customer_Sales_Analysis_Dashboard.xlsx  
-- Customer_dashboard.png  
-
----
-
-## 📈 Key Insights
-- Premium and Business customers contribute significantly to total revenue  
-- Card payments are the most frequently used method  
-- Certain cities generate higher revenue compared to others  
-- Revenue varies across different age groups, showing customer behavior trends  
+- Premium customers generate the highest revenue
+- Top performing cities and product categories
+- Dominant payment methods among customers
+- Age groups with highest purchasing power
 
 ---
 
 ## 🚀 How to Use
-1. Download the Excel file  
-2. Open in Microsoft Excel  
-3. Use slicers to filter data by City, Category, and Customer Segment  
-4. Explore insights through interactive charts  
+
+1. Download or clone this repository
+2. Open the file **`Customer_Sales_Analysis_Dashboard.xlsx`**
+3. Go to the **Dashboard** sheet
+4. Use the slicers on the left/top to dynamically filter the data
+5. Explore all charts and insights
+
+
+---
+
+## 📸 Dashboard Preview
+
+![Customer Sales Analysis Dashboard](Customer_dashboard.png)
 
 ---
 
 ## 👤 Author
-Olamz247  
-Aspiring Data Analyst skilled in Excel, Data Cleaning, and Dashboard Development
+
+**Oladokun**  
+GitHub: [Olamz247](https://github.com/Olamz247)
+
+---
+
