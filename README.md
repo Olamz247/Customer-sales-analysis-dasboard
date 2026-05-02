@@ -81,8 +81,9 @@ The dashboard provides a complete 360° view of sales performance, customer segm
 
 ## 👤 Author
 
-**Oladokun**  
+**Oladokun** — Aspiring Data Analyst  
 GitHub: [Olamz247](https://github.com/Olamz247)
 
 ---
+*Sample / Fictional data project for Data Analytics portfolio*
 
